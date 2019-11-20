@@ -11,6 +11,3 @@ public class Medic extends Soldiers implements Shootable {
         super(healthPoint);
     }
 }
-
-
-
