@@ -15,4 +15,28 @@ public abstract class GeneralCharacteristics {
         this.armorLvl = armorLvl;
         this.shotPower = shotPower;
     }
+
+    public int getMaxSpeed() {
+        return maxSpeed;
+    }
+
+    public void setMaxSpeed(int maxSpeed) {
+        this.maxSpeed = maxSpeed;
+    }
+
+    public int getArmorLvl() {
+        return armorLvl;
+    }
+
+    public void setArmorLvl(int armorLvl) {
+        this.armorLvl = armorLvl;
+    }
+
+    public int getShotPower() {
+        return shotPower;
+    }
+
+    public void setShotPower(int shotPower) {
+        this.shotPower = shotPower;
+    }
 }

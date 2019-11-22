@@ -6,5 +6,5 @@ public class Medic extends Soldiers {
         super(maxSpeed, armorLvl, healthPoint);
     }
 
-    Medic medic = new Medic(15, 10, 120);
+
 }

@@ -7,5 +7,5 @@ public class Tank extends Machines {
         super(maxSpeed, armorLvl, shotPower, fuelVolume);
     }
 
-    Tank tank = new Tank(40, 1000, 300, 400);
+
 }

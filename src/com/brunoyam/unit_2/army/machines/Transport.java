@@ -6,5 +6,5 @@ public class Transport extends Machines {
         super(maxSpeed, armorLvl, shotPower, fuelVolume);
     }
 
-    Transport transport = new Transport(80, 50, 500, 120);
+
 }
